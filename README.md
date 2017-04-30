@@ -1,1 +1,1 @@
-# waffle-board
+# goMake Waffle Board
